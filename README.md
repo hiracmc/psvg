@@ -9,3 +9,4 @@
 ![検索](https://hiracmc.github.io/psvg/svg/psvg_cursor2.svg)
 ![検索](https://hiracmc.github.io/psvg/svg/psvg_close.svg)
 ![検索](https://hiracmc.github.io/psvg/svg/psvg_copy.svg)
+![検索](https://hiracmc.github.io/psvg/svg/psvg_download.svg)
